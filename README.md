@@ -14,7 +14,7 @@ padre "Persona" y las subclases: Cliente, Empleado y Proveedor. Finalmente tiene
 La finalidad del proyecto es mostrar la capacidad de crear proyecos con herencias, principios de encapsulamiento, composición y reutilización de clases.
 
 
-🧱 Estructura general del proyecto
+🧱 Estructura general del proyecto (Ubicado en la carpeta scr/main/java)
 
 📁 src/
 
